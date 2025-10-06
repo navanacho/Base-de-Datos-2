@@ -1,0 +1,1 @@
+Hola mundo, este es un ejemplo de conteo de palabras en un archivo.\nEste archivo contiene palabras repetidas. Palabras, palabras y más palabras.\n

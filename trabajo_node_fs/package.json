@@ -1,0 +1,17 @@
+{
+  "name": "trabajo-node-fs",
+  "version": "1.0.0",
+  "description": "Soluciones en Node.js al trabajo pr\u00e1ctico de uso del m\u00f3dulo fs",
+  "main": "index.js",
+  "scripts": {
+    "ej1": "node ejercicio1.js",
+    "ej2": "node ejercicio2.js",
+    "ej3": "node ejercicio3.js",
+    "ej4": "node ejercicio4.js archivo.txt palabra",
+    "ej5": "node ejercicio5.js origen.txt destino.txt",
+    "ej6": "node ejercicio6.js",
+    "demo": "node demo.js"
+  },
+  "author": "Ignacio (user)",
+  "license": "MIT"
+}
